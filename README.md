@@ -8,5 +8,6 @@ QQ群内的项目指南和群规
 - [QQMinecraft](https://github.com/ishlandbukkit/QQMinecraft)
 - [AutoReconnectFabric](https://github.com/ishlandbukkit/AutoReconnectFabric)
 - [XenforoLogin](https://github.com/Mohist-Community/XenforoLogin)
+- [inno Bot](https://github.com/inkotake/inno)
 ## 群规
 - [群规](https://github.com/TheresaQWQ/sakura_tree/blob/master/rules.md)
