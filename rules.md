@@ -32,6 +32,7 @@
 1. 提问之前请先使用搜索引擎查找答案，确认了搜索引擎无法帮助到你之后再来问
 2. 提问时请尽量简洁明了的描述你的问题
 3. 提问前做好冷场或无人回答的准备，没有人有义务回答你的问题
+4. 推荐看一下 [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
 
 
 修订日期：2020年7月7日
