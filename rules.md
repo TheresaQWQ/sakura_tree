@@ -41,4 +41,4 @@
 4. 推荐看一下 [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
 
 
-修订日期：2020年8月20日
+修订日期：2020年8月27日
