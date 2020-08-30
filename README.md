@@ -8,5 +8,6 @@
 - [AutoReconnectFabric](https://github.com/ishlandbukkit/AutoReconnectFabric)
 - [XenforoLogin](https://github.com/Mohist-Community/XenforoLogin)
 - [inno Bot](https://github.com/inkotake/inno)
+- [SuperBot](https://github.com/TheresaQWQ/SuperBot)
 ## 群规
 - [群规](./rules.md)
