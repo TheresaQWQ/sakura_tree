@@ -9,5 +9,6 @@
 - [XenforoLogin](https://github.com/Mohist-Community/XenforoLogin)
 - [inno Bot](https://github.com/inkotake/inno)
 - [SuperBot](https://github.com/TheresaQWQ/SuperBot)
+- [go-heweather](https://pkg.go.dev/github.com/Ink-33/go-heweather)
 ## 群规
 - [群规](./rules.md)
