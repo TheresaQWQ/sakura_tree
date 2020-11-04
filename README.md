@@ -10,5 +10,6 @@
 - [inno Bot](https://github.com/inkotake/inno)
 - [SuperBot](https://github.com/TheresaQWQ/SuperBot)
 - [go-heweather](https://pkg.go.dev/github.com/Ink-33/go-heweather)
+- [UPMonitor&&pixiv-search](https://github.com/fkx4-p/fkx4-p.github.io)
 ## 群规
 - [群规](./rules.md)
